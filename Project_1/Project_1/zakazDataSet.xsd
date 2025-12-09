@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="zakazDataSet" targetNamespace="http://tempuri.org/zakazDataSet.xsd" xmlns:mstns="http://tempuri.org/zakazDataSet.xsd" xmlns="http://tempuri.org/zakazDataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="zakazConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="zakazConnectionString (Settings)" PropertyReference="ApplicationSettings.Project_1.Properties.Settings.GlobalReference.Default.zakazConnectionString" Provider="System.Data.OleDb" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="zakazyTableAdapter" GeneratorDataComponentClassName="zakazyTableAdapter" Name="zakazy" UserDataComponentName="zakazyTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="zakazConnectionString (Settings)" DbObjectName="zakazy" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="true" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT Код, fio_master, fio_client, phone_number, email, dates, times FROM zakazy</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings />
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="zakazDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_UserDSName="zakazDataSet" msprop:Generator_DataSetName="zakazDataSet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="zakazy" msprop:Generator_RowEvHandlerName="zakazyRowChangeEventHandler" msprop:Generator_RowDeletedName="zakazyRowDeleted" msprop:Generator_RowDeletingName="zakazyRowDeleting" msprop:Generator_RowEvArgName="zakazyRowChangeEvent" msprop:Generator_TablePropName="zakazy" msprop:Generator_RowChangedName="zakazyRowChanged" msprop:Generator_RowChangingName="zakazyRowChanging" msprop:Generator_TableClassName="zakazyDataTable" msprop:Generator_RowClassName="zakazyRow" msprop:Generator_TableVarName="tablezakazy" msprop:Generator_UserTableName="zakazy">
+          <xs:complexType>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

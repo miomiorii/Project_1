@@ -1,0 +1,24 @@
+Z:\ИСПб-032\Моделирование и анализ ПО\Свешникова Анна\проект\Project_1\Project_1\bin\Debug\Project_1.exe.config
+Z:\ИСПб-032\Моделирование и анализ ПО\Свешникова Анна\проект\Project_1\Project_1\bin\Debug\Project_1.exe
+Z:\ИСПб-032\Моделирование и анализ ПО\Свешникова Анна\проект\Project_1\Project_1\bin\Debug\Project_1.pdb
+Z:\ИСПб-032\Моделирование и анализ ПО\Свешникова Анна\проект\Project_1\Project_1\obj\Debug\Project_1.csprojResolveAssemblyReference.cache
+Z:\ИСПб-032\Моделирование и анализ ПО\Свешникова Анна\проект\Project_1\Project_1\obj\Debug\Project_1.Form1.resources
+Z:\ИСПб-032\Моделирование и анализ ПО\Свешникова Анна\проект\Project_1\Project_1\obj\Debug\Project_1.Properties.Resources.resources
+Z:\ИСПб-032\Моделирование и анализ ПО\Свешникова Анна\проект\Project_1\Project_1\obj\Debug\Project_1.csproj.GenerateResource.Cache
+Z:\ИСПб-032\Моделирование и анализ ПО\Свешникова Анна\проект\Project_1\Project_1\obj\Debug\Project_1.exe
+Z:\ИСПб-032\Моделирование и анализ ПО\Свешникова Анна\проект\Project_1\Project_1\obj\Debug\Project_1.pdb
+Z:\ИСПб-032\Моделирование и анализ ПО\Свешникова Анна\проект\Project_1\Project_1\obj\Debug\Project_1.Form2.resources
+Z:\ИСПб-032\Моделирование и анализ ПО\Свешникова Анна\проект\Project_1\Project_1\obj\Debug\Project_1.Form3.resources
+Z:\ИСПб-032\Моделирование и анализ ПО\Свешникова Анна\проект\Project_1\Project_1\obj\Debug\Project_1.Form4.resources
+C:\Users\nyashka_kripper\Desktop\Project_1 — копия\Project_1\bin\Debug\Project_1.exe.config
+C:\Users\nyashka_kripper\Desktop\Project_1 — копия\Project_1\obj\Debug\Project_1.exe
+C:\Users\nyashka_kripper\Desktop\Project_1 — копия\Project_1\obj\Debug\Project_1.pdb
+C:\Users\nyashka_kripper\Desktop\Project_1 — копия\Project_1\bin\Debug\zakaz.accdb
+C:\Users\nyashka_kripper\Desktop\Project_1 — копия\Project_1\obj\Debug\Project_1.Form1.resources
+C:\Users\nyashka_kripper\Desktop\Project_1 — копия\Project_1\obj\Debug\Project_1.Form2.resources
+C:\Users\nyashka_kripper\Desktop\Project_1 — копия\Project_1\obj\Debug\Project_1.Form3.resources
+C:\Users\nyashka_kripper\Desktop\Project_1 — копия\Project_1\obj\Debug\Project_1.Properties.Resources.resources
+C:\Users\nyashka_kripper\Desktop\Project_1 — копия\Project_1\obj\Debug\Project_1.csproj.GenerateResource.cache
+C:\Users\nyashka_kripper\Desktop\Project_1 — копия\Project_1\obj\Debug\Project_1.csprojResolveAssemblyReference.cache
+C:\Users\nyashka_kripper\Desktop\Project_1 — копия\Project_1\bin\Debug\Project_1.exe
+C:\Users\nyashka_kripper\Desktop\Project_1 — копия\Project_1\bin\Debug\Project_1.pdb
